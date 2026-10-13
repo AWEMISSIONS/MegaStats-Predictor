@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789865768089,
+      "tag": "0000_furry_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789865777946,
+      "tag": "0001_icy_klaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789868026053,
+      "tag": "0002_watery_synch",
+      "breakpoints": true
+    }
+  ]
+}
